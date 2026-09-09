@@ -34,7 +34,7 @@
 <p>
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Zennmn&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zennmn&theme=github_dark"
     alt="Zennmn's GitHub statistics"
   />
 </p>
