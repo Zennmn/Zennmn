@@ -13,15 +13,6 @@
 - **[HideDevOptions](https://github.com/Zennmn/HideDevOptions)** — 隐藏开发者选项及 ADB 状态的 LSPosed 模块 · `Java`
 - **[HeartbeatTicker](https://github.com/Zennmn/HeartbeatTicker)** — 定时触发 GMS 心跳的轻量 Android 工具 · `Kotlin`
 
-## TOOLKIT
-
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=kotlin,java,cpp,androidstudio,gradle,git,github"
-    alt="Kotlin, Java, C++, Android Studio, Gradle, Git and GitHub"
-  />
-</p>
-
 ## GITHUB ACTIVITY
 
 <p>
