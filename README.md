@@ -26,8 +26,8 @@
 
 <p>
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zennmn&theme=github_dark"
-    alt="Zennmn's GitHub statistics"
+    src="./assets/stars-streak-card.svg"
+    alt="Zennmn's contributions, stars and longest contribution streak"
   />
 </p>
 
