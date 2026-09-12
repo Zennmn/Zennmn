@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="305 contributions, 48 stars, 11 day longest streak">
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="305 contributions, 49 stars, 11 day longest streak">
   <title>Zennmn's GitHub activity</title>
   <rect width="495" height="195" rx="4.5" fill="#0d1117"/>
   <style>
@@ -13,7 +13,7 @@
 
     <circle cx="247.5" cy="80" r="48" fill="none" stroke="#58a6ff" stroke-width="4"/>
     <text x="247.5" y="59" font-size="18" fill="#f2cc60">★</text>
-    <text class="number" x="247.5" y="91">48</text>
+    <text class="number" x="247.5" y="91">49</text>
     <text class="label" x="247.5" y="113">Total Stars</text>
     <text class="date" x="247.5" y="154">across public repositories</text>
 
