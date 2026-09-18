@@ -2,10 +2,6 @@
   <img src="./assets/brutalist-slab.svg" alt="Zennmn — Android systems and Windows native developer" width="100%" />
 </p>
 
-## WHAT I BUILD
-
-专注于 Android 系统增强、Root 工具与 Windows 原生应用。
-
 ## SELECTED WORK
 
 - **[AM-plus-plus](https://github.com/Zennmn/AM-plus-plus)** — Apple Music 增强模块 · `Kotlin`
